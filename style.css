@@ -1046,7 +1046,7 @@ h3 small, h4 small, h5 small{
     color: white;
 }
 #aboutIntroHome{
-    background: url(img/about-bg.jpg) no-repeat center;
+    background: url(/img/about-bg.jpg) no-repeat center;
 }
 
 #aboutIntro .sectionIntro  h1 {
@@ -1302,7 +1302,7 @@ h3 small, h4 small, h5 small{
 /*<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->*/
 
 #servicesIntro{
-    background: url(img/about-bg.jpg) no-repeat center;
+    background: url(/img/about-bg.jpg) no-repeat center;
 }
 
 #servicesContent{
@@ -1505,7 +1505,7 @@ h3 small, h4 small, h5 small{
 /*process*/
 
 #process{
-    background: url(img/pattern.jpg);
+    background: url(/img/pattern.jpg);
     background-repeat: repeat;
     background-position: center center;
 }
@@ -2141,7 +2141,7 @@ h3 small, h4 small, h5 small{
 /*<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->*/
 
 #text-separator-testimonials{
-    background: url(img/pattern.jpg);
+    background: url(/img/pattern.jpg);
     background-repeat: repeat;
     background-position: center center;
 }
