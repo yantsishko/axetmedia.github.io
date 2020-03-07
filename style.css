@@ -1036,7 +1036,7 @@ h3 small, h4 small, h5 small{
 
 
 #aboutIntro{
-    background: url(img/about-bg.jpg) no-repeat center;
+    background: url(/img/about-bg.jpg) no-repeat center;
 }
 
 #aboutIntro h1 {
