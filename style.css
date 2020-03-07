@@ -1036,7 +1036,7 @@ h3 small, h4 small, h5 small{
 
 
 #aboutIntro{
-    background: url(../img/about-bg.jpg) no-repeat center;
+    background: url(img/about-bg.jpg) no-repeat center;
 }
 
 #aboutIntro h1 {
@@ -1046,7 +1046,7 @@ h3 small, h4 small, h5 small{
     color: white;
 }
 #aboutIntroHome{
-    background: url(../img/about-bg.jpg) no-repeat center;
+    background: url(img/about-bg.jpg) no-repeat center;
 }
 
 #aboutIntro .sectionIntro  h1 {
@@ -1302,7 +1302,7 @@ h3 small, h4 small, h5 small{
 /*<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->*/
 
 #servicesIntro{
-    background: url(../img/about-bg.jpg) no-repeat center;
+    background: url(img/about-bg.jpg) no-repeat center;
 }
 
 #servicesContent{
@@ -3155,7 +3155,7 @@ iframe{border:0;}
 /* Twitter logo before tweet */
 
 .tweet-list.twitter-logo li {
-    background: url('../img/tweet.png') no-repeat;
+    background: url('img/tweet.png') no-repeat;
     padding-left: 40px;
 }
 
